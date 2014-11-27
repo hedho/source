@@ -6,11 +6,12 @@ The source!
 Link: http://source.ftp.s
 Administrator: **Arianit KUKAJ**
 
-Find me: http://facebook.com/arianitkukaj
+Find me: 
 
-          http://twitter.com/arianitkukaj
-            http://instagram.com/tinaira
-             http://github.com/akukaj
+       [FACEBOOK](http://facebook.com/arianitkukaj)
+          [TWITTER](http://twitter.com/arianitkukaj)
+            [INSTAGRAM](http://instagram.com/tinaira)
+             [GITHUB](http://github.com/akukaj)
 
 
 Resources:
