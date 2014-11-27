@@ -18,7 +18,7 @@ Resources:
 
 **Pika-Script**
 ===
-[Click here download/Shakrko Pika](https://github.com/akukaj/Pika-script/raw/master/PIKA.exe)
+[Click here download/Shkako Pika](https://github.com/akukaj/Pika-script/raw/master/PIKA.exe)
 **70 Albanian** IPTV Channels thanks.
 ===
 [Click download IPTV/Shkarko](source.ftp.sh/play/iptv.m3u8)
