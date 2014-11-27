@@ -4,11 +4,13 @@ source
 The source!
 
 Link: http://source.ftp.s
-`Administrator: **Arianit KUKAJ**
+Administrator: **Arianit KUKAJ**
+
 Find me: http://facebook.com/arianitkukaj
+
           http://twitter.com/arianitkukaj
             http://instagram.com/tinaira
-             http://github.com/akukaj`
+             http://github.com/akukaj
 
 
 Resources:
