@@ -1,0 +1,120 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300,600,300italic);
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html, input, button {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+  max-width: 320px;
+  margin: 0 auto;
+  padding: 0 8px;
+  background-color: #4bc0a0;
+  color: #f7f7f8;
+  font-weight: 300;
+}
+
+@media (max-width: 930px) {
+  html.debug > body {
+    margin: 0 0;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+button, input {
+  border: none;
+  border-radius: 0;
+  padding: 4px;
+  margin: 0;
+  display: block;
+  width: 100%;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.input-btn-combo {
+  width: 100%;
+}
+
+.input-btn-combo input {
+  display: inline;
+  width: 75%;
+}
+
+.input-btn-combo button {
+  display: inline;
+  margin-left: 5%;
+  width: 20%;
+}
+
+button.primary {
+  background-color: #5bc6fa;
+  box-shadow: 2px 2px 0 #348d74;
+}
+
+button {
+  background-color: #348d74;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+button:hover {
+  background: black;
+  color: white;
+}
+
+a {
+  color: inherit;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-weight: 600;
+}
+
+.subtitle {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: -5px;
+  margin-bottom: 10px;
+}
+
+.forecastOutfit img {
+  box-shadow: 2px 2px 0 #348d74;  
+}
+
+#app {
+  width: 304px;
+  overflow: hidden;
+}
+
+#app-views {
+  width: 1000px;
+  position: relative;
+  left: 0;
+}
+
+#app-views.ready {
+  transition: left 0.5s;
+}
+
+#app-views > div {
+  vertical-align: top;
+  display: inline-block;
+  width: 304px;
+  padding-right: 4px;
+}
+
+.i-should-be-tall {
+  height: 50px; /* Used to tell if this stylesheet has been loaded yet. */
+}
